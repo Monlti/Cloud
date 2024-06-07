@@ -34,5 +34,5 @@ fi
 # 执行 alist 文件的 admin 命令。
 ./alist admin
 
-# 执行 alist 文件的 server 命令，启动 alist 服务器。
+# 执行 alist 文件的 server 命令，启动 alist
 ./alist server
